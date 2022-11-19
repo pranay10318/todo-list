@@ -1,11 +1,21 @@
 body {
   margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
 }
 html {
  font-size: 62.5%;
 }
 
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+todo-form{
+  justify-content: center;
+  border: 1pt;
+}
+
